@@ -1,0 +1,7 @@
+### Runnig the program 
+On command line:
+> python coin_change.py
+Enter amount:
+31
+Enter coins seperated by space: 
+1 10 25

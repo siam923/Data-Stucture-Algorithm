@@ -1,0 +1,10 @@
+2
+0 50
+3
+Sleeping 0
+Midterm_CSE373 50
+Eating 8
+3 20
+2
+Finalterm_CSE225 4
+Assignment_CSE231 5
